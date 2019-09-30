@@ -1,0 +1,14 @@
+C:\Users\avndv\Desktop\git_repository\MyNewWebApplication\MyNewWebApplication\obj\Debug\netcoreapp2.2\MyNewWebApplication.csprojAssemblyReference.cache
+C:\Users\avndv\Desktop\git_repository\MyNewWebApplication\MyNewWebApplication\obj\Debug\netcoreapp2.2\MyNewWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\avndv\Desktop\git_repository\MyNewWebApplication\MyNewWebApplication\obj\Debug\netcoreapp2.2\MyNewWebApplication.RazorAssemblyInfo.cache
+C:\Users\avndv\Desktop\git_repository\MyNewWebApplication\MyNewWebApplication\obj\Debug\netcoreapp2.2\MyNewWebApplication.RazorAssemblyInfo.cs
+C:\Users\avndv\Desktop\git_repository\MyNewWebApplication\MyNewWebApplication\obj\Debug\netcoreapp2.2\MyNewWebApplication.AssemblyInfoInputs.cache
+C:\Users\avndv\Desktop\git_repository\MyNewWebApplication\MyNewWebApplication\obj\Debug\netcoreapp2.2\MyNewWebApplication.AssemblyInfo.cs
+C:\Users\avndv\Desktop\git_repository\MyNewWebApplication\MyNewWebApplication\bin\Debug\netcoreapp2.2\MyNewWebApplication.deps.json
+C:\Users\avndv\Desktop\git_repository\MyNewWebApplication\MyNewWebApplication\bin\Debug\netcoreapp2.2\MyNewWebApplication.runtimeconfig.json
+C:\Users\avndv\Desktop\git_repository\MyNewWebApplication\MyNewWebApplication\bin\Debug\netcoreapp2.2\MyNewWebApplication.runtimeconfig.dev.json
+C:\Users\avndv\Desktop\git_repository\MyNewWebApplication\MyNewWebApplication\bin\Debug\netcoreapp2.2\MyNewWebApplication.dll
+C:\Users\avndv\Desktop\git_repository\MyNewWebApplication\MyNewWebApplication\bin\Debug\netcoreapp2.2\MyNewWebApplication.pdb
+C:\Users\avndv\Desktop\git_repository\MyNewWebApplication\MyNewWebApplication\obj\Debug\netcoreapp2.2\MyNewWebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\avndv\Desktop\git_repository\MyNewWebApplication\MyNewWebApplication\obj\Debug\netcoreapp2.2\MyNewWebApplication.dll
+C:\Users\avndv\Desktop\git_repository\MyNewWebApplication\MyNewWebApplication\obj\Debug\netcoreapp2.2\MyNewWebApplication.pdb
